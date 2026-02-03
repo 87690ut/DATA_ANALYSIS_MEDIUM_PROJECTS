@@ -60,7 +60,7 @@ I grouped the data by CustomerID to calculate:
 - **Customer Distribution:** Visualized how many customers fall into each category (VIP vs. Regular).
 - **Revenue Impact:** Analyzed which segment contributes the most to total revenue.
 
-[Bar chart of rfm analysis](Screenshot%202026-02-03%20214522.png)
+![Bar chart of rfm analysis](Screenshot%202026-02-03%20214522.png)
 
 ---
 
