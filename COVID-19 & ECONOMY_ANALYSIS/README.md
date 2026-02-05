@@ -33,9 +33,12 @@ Created new KPIs to normalize the data for fair comparison:
 df['Death_Rate'] = (df['Deaths'] / df['Confirmed']) * 100
 
 # Calculating Recovery Rate Percentage
-df['Recovery_Rate'] = (df['Recovered'] / df['Confirmed']) * 100
-
---- Here is Image of the scattered chart of report-
+df['Recovery_Rate'] = (df['Recovered'] / df['Confirmed']) * 100 
 
 
+
+
+
+```
+Scattered chart of the report - 
 ![scattered chart](Screenshot%202026-02-05%20181007.png)
