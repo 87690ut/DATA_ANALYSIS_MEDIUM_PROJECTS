@@ -38,5 +38,6 @@ Here is a list of the key projects I have built so far:
 I am open to feedback and collaboration!
 * **Role:** BCA Student & Data Analyst
 * **Focus:** Solving problems with Data
+* **LinkedIn:** https://www.linkedin.com/in/uttam-tiwari-46079a310?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 * **Email:** uttamtiwari.analyst@gmail.com
-* ** Location:** Jaunpur, Uttar Prasesh
+* **Location:** Jaunpur, Uttar Prasesh
