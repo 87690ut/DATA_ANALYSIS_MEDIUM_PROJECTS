@@ -59,7 +59,7 @@ Upon drilling down into the Furniture category, I discovered the root cause of t
 * **Impact:** The heavy losses from Tables are eating up the profits earned by other furniture items.
 
 
-![Sub category of furniture by profit image](Screenshot%202026-02-06%20104814.png)
+![Sub category of furniture by profit image](Screenshot%202026-02-06%20105941.png)
 
 ---
 
