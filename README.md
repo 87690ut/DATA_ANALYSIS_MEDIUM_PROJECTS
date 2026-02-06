@@ -19,9 +19,9 @@ Here is a list of the key projects I have built so far:
 
 | Level | Project Name | Description | Key Learnings |
 | :--- | :--- | :--- | :--- |
-| **Medium** | **[Superstore Profit Analysis](./Superstore_Project_Folder_Name)** | analyzed a retail dataset to find why "Furniture" was losing money despite high sales. | `Time Series`, `Data Cleaning`, `Business Logic` |
-| **Beginner** | **[Health vs Wealth (COVID-19)](./Covid_Project_Folder_Name)** | Investigated if wealthier nations (High GDP) handled the pandemic better than others. | `Merging`, `Correlation`, `Scatter Plots` |
-| **Beginner** | **[RFM Customer Segmentation](./RFM_Project_Folder_Name)** | Segmented customers based on Recency, Frequency, and Monetary value. | `Segmentation`, `Data Grouping` |
+| **Medium** | **[Superstore Profit Analysis](./Superstore_Profit_Hunt)** | analyzed a retail dataset to find why "Furniture" was losing money despite high sales. | `Time Series`, `Data Cleaning`, `Business Logic` |
+| **Beginner** | **[Health vs Wealth (COVID-19)](./COVID-19 & ECONOMY_ANALYSIS)** | Investigated if wealthier nations (High GDP) handled the pandemic better than others. | `Merging`, `Correlation`, `Scatter Plots` |
+| **Beginner** | **[RFM Customer Segmentation](./E-commerce_Customer_Segmentation)** | Segmented customers based on Recency, Frequency, and Monetary value. | `Segmentation`, `Data Grouping` |
 
 > *Click on the project names to view the code and detailed analysis.*
 
