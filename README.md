@@ -31,7 +31,7 @@ Here is a list of the key projects I have built so far:
 - [x] **Beginner:** Data Cleaning & Basic Visualization (Completed)
 - [x] **Intermediate:** Exploratory Data Analysis & Business Insights (Completed)
 - [ ] **Hard:** Machine Learning & Predictive Modeling (**Currently Learning**)
-- [ ] **Expert:** End-to-End Industry Project (SQL + PowerBI + Python)
+- [x] **Expert:** End-to-End Industry Project (SQL + PowerBI + Python)
 
 ---
 ### 📫 Connect with Me
