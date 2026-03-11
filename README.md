@@ -1,4 +1,4 @@
-# 📊 Data Analysis Portfolio - Uttam Tiwari
+# 📊 Data Analysis Portfolio
 
 ### 🚀 Aspiring Data Analyst | BCA Student | Python Enthusiast
 Welcome to my coding repository! Here, I document my journey from a beginner to an advanced Data Analyst. I solve real-world business problems using Python and Data Visualization.
